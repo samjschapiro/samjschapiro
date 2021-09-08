@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samjschapiro
-  University of Illinois, Urbana-Champaign (2021-2025)
+     * University of Illinois, Urbana-Champaign (2021-2025)
      * Bachelors of Science in Computer Science
      * Bachelor of Science in Psychology 
 - 👀 I’m interested in ... 
