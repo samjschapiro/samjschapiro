@@ -7,7 +7,7 @@ I am a senior undergraduate at the [Department of Computer Science](https://www.
 - **Deep Learning Theory:** Studying the interplay between optimization algorithms and generalization for neural networks.
 
 
-## Publications
+# Publications
 
 ### Transfer Learning
 
